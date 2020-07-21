@@ -6,6 +6,7 @@ pkgs.mkShell {
     ipython
     jedi
     pip
+    pygame
     requests
     rope
   ];
